@@ -3,7 +3,7 @@ Exercício 1 — Complete com do ou does e escreva mais 5 exemplos
 2.Does the API return JSON?
 3.Do developers use Git?
 4.Does she fix bugs?
-5.Do the system process data?
+5.Does the system process data?
 
 Exercício 2 — Escreva 5 frases com did
 
