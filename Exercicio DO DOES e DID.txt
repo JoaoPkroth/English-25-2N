@@ -1,7 +1,7 @@
 Exercício 1 — Complete com do ou does e escreva mais 5 exemplos
 1.Do you write code every day?
 2.Does the API return JSON?
-3.Does developers use Git?
+3.Do developers use Git?
 4.Does she fix bugs?
 5.Do the system process data?
 
