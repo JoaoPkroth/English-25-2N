@@ -4,6 +4,11 @@ Exercício 1 — Complete com do ou does e escreva mais 5 exemplos
 3.Do developers use Git?
 4.Does she fix bugs?
 5.Does the system process data?
+6.Do you know what time it is?
+7.Does he like read books?
+8.Does she use the new system?
+9.Do they fixe the bugs?
+10.Do he run today?
 
 Exercício 2 — Escreva 5 frases com did
 
@@ -19,9 +24,9 @@ Exemplo:
 We deploy on Friday → We don't deploy on Friday
 
 Developers use SVN. -> Developers don't use SVN.
-The API returns XML. -> The API don't returns XML.
+The API returns XML. -> The API doesn't returns XML.
 She writes backend code. -> She doesn't write backend code.
-The system stores passwords. -> They system doesn't store password.
+The system stores passwords. -> The system doesn't store passwords.
 The server processes requests. -> The server doesn't process request.
 
 Exercício 4 — Negativa no passado
@@ -29,11 +34,11 @@ Exemplo:
 
 They deployed → They didn't deploy
 
-We tested the system. -> we didn't tested the tested.
-The server restarted. -> The server didn't restarted.
-She fixed the bug. -> She dind't  feixed the bug.
-They pushed the code.-> They dind't pushed the code.
-The API responded. The API dind't responded.
+We tested the system. -> we didn't test the system.
+The server restarted. -> The server didn't restart.
+She fixed the bug. -> She dind't fix the bug.
+They pushed the code.-> They dind't push the code.
+The API responded. The API dind't respond.
 
 Exercício 5 — Transforme em pergunta
 Exemplo:
@@ -41,10 +46,10 @@ Exemplo:
 You use Git → Do you use Git?
 
 Developers use Docker. -> Do developers use Docker.
-The server runs Linux. -> Does the server runs Linux.
+The server runs Linux. -> Does the server run Linux.
 She writes documentation. -> Does she writes documentation.
-They deploy applications. ->  do they deploy applications.
-The system stores data. -> Does the system stores data.
+They deploy applications. -> Do they deploy applications.
+The system stores data. -> Does the system store data.
 
 Exercício 6
 Escreva um pequeno texto sobre sua rotina de programação.
