@@ -1,0 +1,55 @@
+| SIMPLE PRESENT            | PRESENT CONTINUOUS          | QUESTION USING PRESENT CONTINUOUS | SIMPLE PAST            |
+| ------------------------- | --------------------------- | --------------------------------- | ---------------------- |
+| I run fast.               | I am running fast.          | Am I running fast?                | I ran fast.            |
+| He swims every day.       | He is swimming now.         | Is he swimming now?               | He swam yesterday.     |
+| I sit on the chair.       | I am sitting on the chair.  | Am I sitting on the chair?        | I sat on the chair.    |
+| I stop the car.           | I am stopping the car.      | Am I stopping the car?            | I stopped the car.     |
+| I plan my vacation.       | I am planning my vacation.  | Am I planning my vacation?        | I planned my vacation. |
+| I travel to school.       | I am traveling to school.   | Am I traveling to school?         | I traveled to school.  |
+| I dance very well.        | I am dancing now.           | Am I dancing now?                 | I danced yesterday.    |
+| I write stories.          | I am writing a story.       | Am I writing a story?             | I wrote stories.       |
+| I make cookies.           | I am making cookies.        | Am I making cookies?              | I made cookies.        |
+| I drive carefully.        | I am driving carefully.     | Am I driving carefully?           | I drove carefully.     |
+| I come home early.        | I am coming home now.       | Am I coming home now?             | I came home early.     |
+| I take the bus.           | I am taking the bus.        | Am I taking the bus?              | I took the bus.        |
+| I move the table.         | I am moving the table.      | Am I moving the table?            | I moved the table.     |
+| I lie on the bed.         | I am lying on the bed.      | Am I lying on the bed?            | I lay on the bed.      |
+| I get good grades.        | I am getting good grades.   | Am I getting good grades?         | I got good grades.     |
+| I shop at the mall.       | I am shopping at the mall.  | Am I shopping at the mall?        | I shopped at the mall. |
+| I begin my homework.      | I am beginning my homework. | Am I beginning my homework?       | I began my homework.   |
+| I forget names sometimes. | I am forgetting the answer. | Am I forgetting the answer?       | I forgot the answer.   |
+| I use my computer daily.  | I am using my computer now. | Am I using my computer now?       | I used my computer.    |
+| I live in Brazil.         | I am living in Brazil.      | Am I living in Brazil?            | I lived in Brazil.     |
+| I eat pizza every Friday. | I am eating pizza now.      | Am I eating pizza now?            | I ate pizza yesterday. |
+|______________________________________________________________________________________________________________________|
+
+A) Complete com o verbo correto:
+
+* She **worked** yesterday.
+* They **played** soccer last week.
+* He **studied** English.
+* I **fixed** the bug.
+
+B) Transforme em negativa:
+
+* She worked → **She didn't work.**
+* He studied → **He didn't study.**
+* They played → **They didn't play.**
+
+C) Transforme em pergunta:
+
+* You worked → **Did you work?**
+* She studied → **Did she study?**
+* They played → **Did they play?**
+
+D) Corrija os erros:
+
+* I did worked → **I did work.**
+* She didn't studied → **She didn't study.**
+* Did you worked? → **Did you work?**
+
+E) Traduza:
+
+* Eu trabalhei ontem → **I worked yesterday.**
+* Nós corrigimos o erro → **We fixed the bug.**
+* Ela estudou inglês → **She studied English.**

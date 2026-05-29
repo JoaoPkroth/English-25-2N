@@ -1,0 +1,69 @@
+/*
+Exercício 1 — Complete com do ou does e escreva mais 5 exemplos
+1.Do you write code every day?
+2.Does the API return JSON?
+3.Dos developers use Git?
+4.Does she fix bugs?
+5.Do the system process data?
+
+Exercício 2 — Escreva 5 frases com did
+
+Did you study yesterday?
+Did she test the code?
+Did he remind your password?
+Did we play yesterday?
+Did they find the document?
+
+Exercício 3 — Transforme em negativa
+Exemplo:
+
+We deploy on Friday → We don't deploy on Friday
+
+Developers use SVN. -> Developers don't use SVN.
+The API returns XML. -> The API don't returns XML.
+She writes backend code. -> She doesn't write backend code.
+The system stores passwords. -> They system doesn't store password.
+The server processes requests. -> The server doesn't process request.
+
+Exercício 4 — Negativa no passado
+Exemplo:
+
+They deployed → They didn't deploy
+
+We tested the system. -> we didn't tested the tested.
+The server restarted. -> The server didn't restarted.
+She fixed the bug. -> She dind't  feixed the bug.
+They pushed the code.-> They dind't pushed the code.
+The API responded. The API dind't responded.
+
+Exercício 5 — Transforme em pergunta
+Exemplo:
+
+You use Git → Do you use Git?
+
+Developers use Docker. -> Do developers use Docker.
+The server runs Linux. -> Does the server runs Linux.
+She writes documentation. -> Does she writes documentation.
+They deploy applications. ->  do they deploy applications.
+The system stores data. -> Does the system stores data.
+
+Exercício 6
+Escreva um pequeno texto sobre sua rotina de programação.
+
+Use perguntas como guia:
+
+Do you code every day?
+Did you learn programming recently?
+Do you test your code?
+Escreva 8 a 10 linhas.
+
+I code three times a week, usually before my course to study.
+I started learning programming recently, and I am still improving.
+Sometimes it is a bit difficult, but I keep practicing.
+I like to learn new things during my classes.
+Yes, I test my code to see if everything is working well.
+When I find mistakes, I try to understand and fix them.
+I also study at home to get better.
+Programming is becoming part of my routine.
+I feel good when I understand the code and it Works.
+*/
